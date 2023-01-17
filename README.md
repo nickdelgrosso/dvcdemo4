@@ -1,3 +1,6 @@
 # dvcdemo4
 
-Hello!
+## Download Data
+
+`dvc pull`
+
